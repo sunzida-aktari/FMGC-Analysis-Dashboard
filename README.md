@@ -1,6 +1,6 @@
-# FMGC-Analysis-Dashboard
+# FMCG-Analysis-Dashboard
 1. Title:
-Quickmart Analytics : FMGC Sales Dashboard
+Quickmart Analytics : FMCG Sales Dashboard
 A interactive data visualization tool built to explore Total Sales,Outlet type, Product type, Outlet size and location,Yearly sales trend.
 3. Purpose:
 Quickmart Analysis is a detailed analysis of their sales over the year and about their products and outlets. The final dashboard is effective at displaying the sales trend of Quickmart , allowing users to understand the data and make informed decisions.
